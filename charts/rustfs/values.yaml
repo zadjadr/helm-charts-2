@@ -76,7 +76,7 @@ setup:
     ## @param image.repository RustFS CLI image repository
     repository: rustfs/rc
     ## @param image.tag RustFS CLI image tag (immutable tags are recommended)
-    tag: "v0.1.16@sha256:9abd6fb2b41a38aad8e6efb4a47c308701ee72417962da2205ea4ec72e30a75f"
+    tag: "v0.1.23@sha256:830f749fc3e699cbf5fb781469d9c4a1e7d73d39eeaf9bbf795ebfe4e4618c6b"
     ## @param image.imagePullPolicy RustFS CLI image pull policy
     imagePullPolicy: Always
   # -- If defined, uses a pre-configured *SecretMap* with the keys below as JSON
